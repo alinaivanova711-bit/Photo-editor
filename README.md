@@ -1,3 +1,5 @@
+Веб-приложение для обрезки изображений с возможностью загрузки, кадрирования и скачивания результата. Реализовано на TypeScript с использованием библиотеки Cropper.js.
+
 Что было реализовано в процессе:
 1. Интеграция библиотеки Cropper.js с TypeScript
 2. Работа с Blob и URL.createObjectURL для отображения и скачивания изображений
@@ -11,8 +13,11 @@
 Нажмите Crop image — обрезанное изображение отобразится в блоке предпросмотра
 Нажмите Download new image, чтобы скачать результат
 
-<img width="1178" height="873" alt="image" src="https://github.com/user-attachments/assets/64dc2a9c-3dfe-4ed0-b3f8-d0ab530abbc9" />
-<img width="1415" height="1075" alt="image" src="https://github.com/user-attachments/assets/a7fa751c-3162-4715-ad74-574aea38c5c3" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/046d7f8a-a8d2-43a0-8538-fcfb291c08fc" />
+<img width="912" height="622" alt="image" src="https://github.com/user-attachments/assets/155e4798-4a47-4ad3-9fa9-b433eb1a4554" />
+<img width="1506" height="1080" alt="image" src="https://github.com/user-attachments/assets/72669979-68bf-4fec-b678-19a6c8b12c76" />
+<img width="1425" height="898" alt="image" src="https://github.com/user-attachments/assets/2c38ca55-511f-4a69-b791-cdbf9002d5ca" />
+
+
+
 
 
